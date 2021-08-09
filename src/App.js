@@ -8,7 +8,7 @@ function App() {
     <div className="app">
       <Header />
       <Home />
-      <Banner />
+      
 
       {/* Home Page */}
           {/* Header */}
